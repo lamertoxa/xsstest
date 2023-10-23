@@ -1,0 +1,1702 @@
+D:.
+├───Junctions-test
+│   └───Junctions-test
+│       ├───Priority
+│       │       10025.png
+│       │       12494.png
+│       │       12497.png
+│       │       12499.png
+│       │       26014.png
+│       │       26044.png
+│       │       27002.png
+│       │       27026.png
+│       │       27054.png
+│       │       27057.png
+│       │       27079.png
+│       │       27087.png
+│       │       27137.png
+│       │       27181.png
+│       │       27188.png
+│       │       27189.png
+│       │       27202.png
+│       │       27226.png
+│       │       27227.png
+│       │       27239.png
+│       │       27245.png
+│       │       27285.png
+│       │       27295.png
+│       │       27302.png
+│       │       27322.png
+│       │       27416.png
+│       │       27424.png
+│       │       27450.png
+│       │       27478.png
+│       │       27488.png
+│       │       27490.png
+│       │       27501.png
+│       │       27504.png
+│       │       27520.png
+│       │       27532.png
+│       │       27537.png
+│       │       27541.png
+│       │       27545.png
+│       │       27556.png
+│       │       27557.png
+│       │       27563.png
+│       │       27566.png
+│       │       27567 (1).png
+│       │       27568 (1).png
+│       │       27573.png
+│       │       27585.png
+│       │       27588.png
+│       │       28004.png
+│       │       28013.png
+│       │       28044.png
+│       │       28067.png
+│       │       28082.png
+│       │       28106.png
+│       │       28109.png
+│       │       28111.png
+│       │       28115.png
+│       │       28121.png
+│       │       28135.png
+│       │       28194.png
+│       │       29002.png
+│       │       29018.png
+│       │       29020.png
+│       │       29034.png
+│       │       29045.png
+│       │       29076.png
+│       │       29089.png
+│       │       29101.png
+│       │       29170.png
+│       │       29173.png
+│       │       29176.png
+│       │       29198.png
+│       │       29204.png
+│       │       29214.png
+│       │       29244.png
+│       │       29249.png
+│       │       29253.png
+│       │       29263.png
+│       │       29269.png
+│       │       29272.png
+│       │       29283.png
+│       │       29303.png
+│       │       29318.png
+│       │       29330.png
+│       │       29337.png
+│       │       29350.png
+│       │       29363.png
+│       │       29394.png
+│       │       29413.png
+│       │       51879.png
+│       │       51931.png
+│       │       52964.png
+│       │       53428.png
+│       │       60066.png
+│       │       60100.png
+│       │       60111.png
+│       │       60167.png
+│       │       60344.png
+│       │       60373.png
+│       │       60430.png
+│       │       60477.png
+│       │       61991.png
+│       │       62005.png
+│       │       62041.png
+│       │       62101.png
+│       │       62228.png
+│       │       62235.png
+│       │       62238.png
+│       │       62240.png
+│       │       62337.png
+│       │       62370.png
+│       │       R036.png
+│       │       R070.png
+│       │       R080.png
+│       │       S053.png
+│       │       S062.png
+│       │       S184.png
+│       │       S186.png
+│       │       S273.png
+│       │
+│       ├───Roundabout
+│       │       26005.png
+│       │       26057.png
+│       │       27045.png
+│       │       27491.png
+│       │       27495.png
+│       │       27596.png
+│       │       28005.png
+│       │       28064.png
+│       │       29189.png
+│       │       29202.png
+│       │       29289.png
+│       │       29402.png
+│       │       29410.png
+│       │       51898.png
+│       │       51928.png
+│       │       52944.png
+│       │       52980.png
+│       │       53402.png
+│       │       53403.png
+│       │       53416.png
+│       │       53420.png
+│       │       54911.png
+│       │       60101.png
+│       │       60438.png
+│       │       60584.png
+│       │       62227.png
+│       │       62229.png
+│       │       62233.png
+│       │       62406.png
+│       │       62407.png
+│       │       62528.png
+│       │       65162.png
+│       │       65375.png
+│       │       68007.png
+│       │       R007.png
+│       │       R009.png
+│       │       R012.png
+│       │       R016.png
+│       │       R017.png
+│       │       R019.png
+│       │       R028.png
+│       │       R029.png
+│       │       R042.png
+│       │       R052.png
+│       │       R054.png
+│       │       R058.png
+│       │       R059.png
+│       │       R060.png
+│       │       R079.png
+│       │       R085.png
+│       │       R108.png
+│       │       R121.png
+│       │       R123.png
+│       │       R126.png
+│       │       R129.png
+│       │       R150.png
+│       │       R154.png
+│       │       R156.png
+│       │       R164.png
+│       │       R169.png
+│       │       R172.png
+│       │       R178.png
+│       │       R182.png
+│       │       R201.png
+│       │       R207.png
+│       │       R503.png
+│       │       R506.png
+│       │       R512.png
+│       │       R517.png
+│       │       R520.png
+│       │       R527.png
+│       │       R531.png
+│       │       R536.png
+│       │       R546.png
+│       │       R549.png
+│       │       R557.png
+│       │       R561.png
+│       │       R568.png
+│       │       R571.png
+│       │       R578.png
+│       │       R583.png
+│       │       R587.png
+│       │       R589.png
+│       │       R608.png
+│       │       R609.png
+│       │       R621.png
+│       │       R623.png
+│       │       R628.png
+│       │       R636.png
+│       │       R655.png
+│       │       R665.png
+│       │       R671.png
+│       │       R673.png
+│       │       R674.png
+│       │       R681.png
+│       │       R683.png
+│       │       R696.png
+│       │       R702.png
+│       │       R708.png
+│       │       R715.png
+│       │       R717.png
+│       │       R721.png
+│       │       R725.png
+│       │       R731.png
+│       │       R749.png
+│       │       R770.png
+│       │       R775.png
+│       │       R779.png
+│       │       R782.png
+│       │       S182.png
+│       │
+│       └───Signal
+│               27008.png
+│               27025.png
+│               27068.png
+│               27085.png
+│               27096.png
+│               27098.png
+│               27274.png
+│               27279.png
+│               27402.png
+│               27454.png
+│               27456.png
+│               27457.png
+│               27460.png
+│               27479.png
+│               28187.png
+│               29029.png
+│               29031.png
+│               29135.png
+│               29171.png
+│               29246.png
+│               29412.png
+│               52880.png
+│               53424.png
+│               53427.png
+│               53536.png
+│               60124.png
+│               60235.png
+│               60242.png
+│               60362.png
+│               60448.png
+│               60452.png
+│               60460.png
+│               62225.png
+│               62234.png
+│               62409.png
+│               62793.png
+│               62824.png
+│               62826.png
+│               62966.png
+│               65347.png
+│               65353.png
+│               65365.png
+│               S001.png
+│               S014.png
+│               S051.png
+│               S059.png
+│               S127.png
+│               S128.png
+│               S131.png
+│               S133.png
+│               S145.png
+│               S147.png
+│               S160.png
+│               S164.png
+│               S166.png
+│               S188.png
+│               S201.png
+│               S203.png
+│               S204.png
+│               S205.png
+│               S245.png
+│               S258.png
+│               S260.png
+│               S265.png
+│               S274.png
+│               S312.png
+│               T506.png
+│               T508.png
+│               T513.png
+│               T517.png
+│               T518.png
+│               T525.png
+│               T533.png
+│               T539.png
+│               T540.png
+│               T546.png
+│               T551.png
+│               T561.png
+│               T563.png
+│               T568.png
+│               T575.png
+│               T593.png
+│               T614.png
+│               T615.png
+│               T622.png
+│               T630.png
+│               T635.png
+│               T637.png
+│               T648.png
+│               T651.png
+│               T663.png
+│               T674.png
+│               T677.png
+│               T686.png
+│               T690.png
+│               T698.png
+│               T702.png
+│               T709.png
+│               T714.png
+│               T721.png
+│               T728.png
+│               T736.png
+│               T746.png
+│               T749.png
+│               T751.png
+│               T752.png
+│               T773.png
+│
+├───Junctions-train
+│   └───Junctions-train
+│       ├───Priority
+│       │       12479.png
+│       │       12481.png
+│       │       19196.png
+│       │       26004.png
+│       │       26008.png
+│       │       26009.png
+│       │       26013.png
+│       │       26024.png
+│       │       26026.png
+│       │       26043.png
+│       │       26045.png
+│       │       26048.png
+│       │       26049.png
+│       │       26050.png
+│       │       26052.png
+│       │       26054.png
+│       │       26056.png
+│       │       26086.png
+│       │       26087.png
+│       │       26089.png
+│       │       26092.png
+│       │       27000.png
+│       │       27003.png
+│       │       27005.png
+│       │       27007.png
+│       │       27009.png
+│       │       27016.png
+│       │       27023.png
+│       │       27024.png
+│       │       27030.png
+│       │       27031.png
+│       │       27032.png
+│       │       27033.png
+│       │       27038.png
+│       │       27039.png
+│       │       27040.png
+│       │       27042.png
+│       │       27049.png
+│       │       27051.png
+│       │       27053.png
+│       │       27069.png
+│       │       27084.png
+│       │       27086.png
+│       │       27091.png
+│       │       27102.png
+│       │       27104.png
+│       │       27123.png
+│       │       27125.png
+│       │       27128.png
+│       │       27138.png
+│       │       27139.png
+│       │       27165.png
+│       │       27178.png
+│       │       27179.png
+│       │       27182.png
+│       │       27183.png
+│       │       27190.png
+│       │       27195.png
+│       │       27201.png
+│       │       27203.png
+│       │       27204.png
+│       │       27205.png
+│       │       27208.png
+│       │       27213.png
+│       │       27221.png
+│       │       27223.png
+│       │       27228.png
+│       │       27233.png
+│       │       27237.png
+│       │       27238.png
+│       │       27246.png
+│       │       27251.png
+│       │       27252.png
+│       │       27255.png
+│       │       27259.png
+│       │       27261.png
+│       │       27270.png
+│       │       27271.png
+│       │       27272.png
+│       │       27273.png
+│       │       27275.png
+│       │       27276.png
+│       │       27290.png
+│       │       27297.png
+│       │       27301.png
+│       │       27306.png
+│       │       27312.png
+│       │       27313.png
+│       │       27314.png
+│       │       27331.png
+│       │       27357.png
+│       │       27358.png
+│       │       27359.png
+│       │       27362.png
+│       │       27372.png
+│       │       27378.png
+│       │       27391.png
+│       │       27398.png
+│       │       27403.png
+│       │       27405.png
+│       │       27411.png
+│       │       27422.png
+│       │       27430.png
+│       │       27435.png
+│       │       27436.png
+│       │       27448.png
+│       │       27452.png
+│       │       27458.png
+│       │       27461.png
+│       │       27462.png
+│       │       27466.png
+│       │       27468.png
+│       │       27469.png
+│       │       27471.png
+│       │       27472.png
+│       │       27473.png
+│       │       27474.png
+│       │       27475.png
+│       │       27480.png
+│       │       27481.png
+│       │       27483.png
+│       │       27485.png
+│       │       27487.png
+│       │       27489.png
+│       │       27494.png
+│       │       27498.png
+│       │       27499.png
+│       │       27502.png
+│       │       27503.png
+│       │       27516.png
+│       │       27517.png
+│       │       27521.png
+│       │       27531.png
+│       │       27555.png
+│       │       27559.png
+│       │       27560.png
+│       │       27561.png
+│       │       27562.png
+│       │       27564.png
+│       │       27565 (1).png
+│       │       27565.png
+│       │       27566 (1).png
+│       │       27567.png
+│       │       27568.png
+│       │       27569 (1).png
+│       │       27569.png
+│       │       27572 (1).png
+│       │       27572.png
+│       │       27573 (1).png
+│       │       27574 (1).png
+│       │       27574.png
+│       │       27576 (1).png
+│       │       27576.png
+│       │       27577 (1).png
+│       │       27577.png
+│       │       27580.png
+│       │       27581.png
+│       │       27586.png
+│       │       27591.png
+│       │       27592.png
+│       │       27593.png
+│       │       27597.png
+│       │       27598.png
+│       │       28000.png
+│       │       28001.png
+│       │       28002.png
+│       │       28003.png
+│       │       28008.png
+│       │       28015.png
+│       │       28016.png
+│       │       28018.png
+│       │       28019.png
+│       │       28021.png
+│       │       28023.png
+│       │       28028.png
+│       │       28029.png
+│       │       28031.png
+│       │       28036.png
+│       │       28039.png
+│       │       28040.png
+│       │       28043.png
+│       │       28047.png
+│       │       28061.png
+│       │       28069.png
+│       │       28105.png
+│       │       28112.png
+│       │       28113.png
+│       │       28114.png
+│       │       28116.png
+│       │       28122.png
+│       │       28123.png
+│       │       28138.png
+│       │       28141.png
+│       │       28142.png
+│       │       28143.png
+│       │       28144.png
+│       │       28145.png
+│       │       28149.png
+│       │       28167.png
+│       │       28168.png
+│       │       28174.png
+│       │       28175.png
+│       │       28177.png
+│       │       28180.png
+│       │       28184.png
+│       │       28185.png
+│       │       28186.png
+│       │       28188.png
+│       │       28190.png
+│       │       28191.png
+│       │       28192.png
+│       │       28196.png
+│       │       28200.png
+│       │       28201.png
+│       │       28202.png
+│       │       28203.png
+│       │       28209.png
+│       │       29001.png
+│       │       29003.png
+│       │       29008.png
+│       │       29009.png
+│       │       29011.png
+│       │       29025.png
+│       │       29033.png
+│       │       29050.png
+│       │       29053.png
+│       │       29054.png
+│       │       29055.png
+│       │       29061.png
+│       │       29063.png
+│       │       29067.png
+│       │       29069.png
+│       │       29074.png
+│       │       29075.png
+│       │       29078.png
+│       │       29084.png
+│       │       29085.png
+│       │       29093.png
+│       │       29094.png
+│       │       29095.png
+│       │       29096.png
+│       │       29102.png
+│       │       29103.png
+│       │       29104.png
+│       │       29105.png
+│       │       29106.png
+│       │       29107.png
+│       │       29109.png
+│       │       29111.png
+│       │       29117.png
+│       │       29120.png
+│       │       29122.png
+│       │       29123.png
+│       │       29124.png
+│       │       29126.png
+│       │       29127.png
+│       │       29129.png
+│       │       29143.png
+│       │       29144.png
+│       │       29146.png
+│       │       29154.png
+│       │       29156.png
+│       │       29174.png
+│       │       29177.png
+│       │       29178.png
+│       │       29179.png
+│       │       29180.png
+│       │       29181.png
+│       │       29185.png
+│       │       29186.png
+│       │       29193.png
+│       │       29196.png
+│       │       29208.png
+│       │       29213.png
+│       │       29221.png
+│       │       29222.png
+│       │       29223.png
+│       │       29232.png
+│       │       29250.png
+│       │       29261.png
+│       │       29265.png
+│       │       29277.png
+│       │       29280.png
+│       │       29285.png
+│       │       29286.png
+│       │       29301.png
+│       │       29309.png
+│       │       29312.png
+│       │       29316.png
+│       │       29321.png
+│       │       29323.png
+│       │       29324.png
+│       │       29332.png
+│       │       29335.png
+│       │       29339.png
+│       │       29341.png
+│       │       29343.png
+│       │       29345.png
+│       │       29353.png
+│       │       29356.png
+│       │       29359.png
+│       │       29365.png
+│       │       29371.png
+│       │       29373.png
+│       │       29406.png
+│       │       29414.png
+│       │       29415.png
+│       │       29425.png
+│       │       29427.png
+│       │       29429.png
+│       │       29430.png
+│       │       29443.png
+│       │       29450.png
+│       │       29452.png
+│       │       51642.png
+│       │       51645.png
+│       │       51647.png
+│       │       51649.png
+│       │       51655.png
+│       │       51877.png
+│       │       51878.png
+│       │       51881.png
+│       │       51882.png
+│       │       51888.png
+│       │       51889.png
+│       │       51891.png
+│       │       51892.png
+│       │       51903.png
+│       │       51904.png
+│       │       51935.png
+│       │       51936.png
+│       │       51939.png
+│       │       52077.png
+│       │       52093.png
+│       │       52111.png
+│       │       52903.png
+│       │       52939.png
+│       │       52959.png
+│       │       52960.png
+│       │       52965.png
+│       │       52966.png
+│       │       52970.png
+│       │       52972.png
+│       │       53400.png
+│       │       53401.png
+│       │       53409.png
+│       │       53410.png
+│       │       53419.png
+│       │       53422.png
+│       │       53425.png
+│       │       53426.png
+│       │       53491.png
+│       │       53496.png
+│       │       53535.png
+│       │       53541.png
+│       │       55271.png
+│       │       60006.png
+│       │       60007.png
+│       │       60012.png
+│       │       60015.png
+│       │       60025.png
+│       │       60029.png
+│       │       60030.png
+│       │       60031.png
+│       │       60033.png
+│       │       60036.png
+│       │       60037.png
+│       │       60049.png
+│       │       60053.png
+│       │       60057.png
+│       │       60065.png
+│       │       60071.png
+│       │       60081.png
+│       │       60099.png
+│       │       60110.png
+│       │       60113.png
+│       │       60121.png
+│       │       60151.png
+│       │       60168.png
+│       │       60169.png
+│       │       60170.png
+│       │       60209.png
+│       │       60265.png
+│       │       60268.png
+│       │       60275.png
+│       │       60334.png
+│       │       60348.png
+│       │       60352.png
+│       │       60365.png
+│       │       60372.png
+│       │       60383.png
+│       │       60388.png
+│       │       60428.png
+│       │       60429.png
+│       │       60436.png
+│       │       60439.png
+│       │       60450.png
+│       │       60454.png
+│       │       60461.png
+│       │       60470.png
+│       │       60480.png
+│       │       60481.png
+│       │       60498.png
+│       │       60500.png
+│       │       60525.png
+│       │       60556.png
+│       │       60579.png
+│       │       60581.png
+│       │       60583.png
+│       │       60591.png
+│       │       61862.png
+│       │       62008.png
+│       │       62031.png
+│       │       62053.png
+│       │       62091.png
+│       │       62093.png
+│       │       62099.png
+│       │       62102.png
+│       │       62106.png
+│       │       62107.png
+│       │       62246.png
+│       │       62247.png
+│       │       62250.png
+│       │       62340.png
+│       │       62343.png
+│       │       62345.png
+│       │       62346.png
+│       │       62357.png
+│       │       62358.png
+│       │       62359.png
+│       │       62362.png
+│       │       62364.png
+│       │       62372.png
+│       │       62378.png
+│       │       62385.png
+│       │       62389.png
+│       │       R035.png
+│       │       R117.png
+│       │       R122.png
+│       │       R175.png
+│       │       R180.png
+│       │       S005.png
+│       │       S017.png
+│       │       S028.png
+│       │       S049.png
+│       │       S054.png
+│       │       S057.png
+│       │       S061.png
+│       │       S069.png
+│       │       S103.png
+│       │       S104.png
+│       │       S118.png
+│       │       S125.png
+│       │       S126.png
+│       │       S130.png
+│       │       S168.png
+│       │       S169.png
+│       │       S211.png
+│       │       S212.png
+│       │       S213.png
+│       │       S215.png
+│       │       S219.png
+│       │       S220.png
+│       │       S241.png
+│       │       S261.png
+│       │       S283.png
+│       │       S304.png
+│       │       S305.png
+│       │       S321.png
+│       │       T785.png
+│       │
+│       ├───Roundabout
+│       │       12492.png
+│       │       12493.png
+│       │       13451.png
+│       │       13735.png
+│       │       19260.png
+│       │       26002.png
+│       │       26012.png
+│       │       26053.png
+│       │       26055.png
+│       │       27055.png
+│       │       27092.png
+│       │       27093.png
+│       │       27126.png
+│       │       27131.png
+│       │       27431.png
+│       │       27432.png
+│       │       27441.png
+│       │       27443.png
+│       │       27459.png
+│       │       27464.png
+│       │       27470.png
+│       │       27476.png
+│       │       27497.png
+│       │       27500.png
+│       │       27509.png
+│       │       27513.png
+│       │       28009.png
+│       │       28030.png
+│       │       28032.png
+│       │       28045.png
+│       │       28049.png
+│       │       28054.png
+│       │       28071.png
+│       │       28100.png
+│       │       28128.png
+│       │       28136.png
+│       │       28158.png
+│       │       28170.png
+│       │       28181.png
+│       │       28198.png
+│       │       28199.png
+│       │       28210.png
+│       │       29006.png
+│       │       29015.png
+│       │       29022.png
+│       │       29030.png
+│       │       29032.png
+│       │       29051.png
+│       │       29057.png
+│       │       29066.png
+│       │       29077.png
+│       │       29118.png
+│       │       29128.png
+│       │       29165.png
+│       │       29187.png
+│       │       29206.png
+│       │       29346.png
+│       │       29397.png
+│       │       29398.png
+│       │       29442.png
+│       │       51795.png
+│       │       51900.png
+│       │       51905.png
+│       │       51907.png
+│       │       51909.png
+│       │       51910.png
+│       │       52085.png
+│       │       52092.png
+│       │       52107.png
+│       │       52770.png
+│       │       52918.png
+│       │       52941.png
+│       │       52945.png
+│       │       52946.png
+│       │       52947.png
+│       │       52948.png
+│       │       52954.png
+│       │       52956.png
+│       │       52957.png
+│       │       52979.png
+│       │       53407.png
+│       │       53408.png
+│       │       53411.png
+│       │       53417.png
+│       │       53430.png
+│       │       53494.png
+│       │       54914.png
+│       │       54915.png
+│       │       55250.png
+│       │       55272.png
+│       │       60085.png
+│       │       60200.png
+│       │       60329.png
+│       │       60386.png
+│       │       60414.png
+│       │       60433.png
+│       │       60442.png
+│       │       60449.png
+│       │       60512.png
+│       │       60557.png
+│       │       60576.png
+│       │       60577.png
+│       │       62226.png
+│       │       62230.png
+│       │       62349.png
+│       │       62371.png
+│       │       62402.png
+│       │       62829.png
+│       │       62831.png
+│       │       62907.png
+│       │       62918.png
+│       │       62920.png
+│       │       62924.png
+│       │       62931.png
+│       │       62940.png
+│       │       62941.png
+│       │       62942.png
+│       │       63010.png
+│       │       63036.png
+│       │       64925.png
+│       │       64928.png
+│       │       65398.png
+│       │       65399.png
+│       │       65402.png
+│       │       65435.png
+│       │       65890.png
+│       │       65920.png
+│       │       R001.png
+│       │       R003.png
+│       │       R004.png
+│       │       R005.png
+│       │       R006.png
+│       │       R008.png
+│       │       R010.png
+│       │       R013.png
+│       │       R014.png
+│       │       R015.png
+│       │       R018.png
+│       │       R020.png
+│       │       R022.png
+│       │       R023.png
+│       │       R024.png
+│       │       R030.png
+│       │       R031.png
+│       │       R033.png
+│       │       R034.png
+│       │       R037.png
+│       │       R038.png
+│       │       R039.png
+│       │       R040.png
+│       │       R041.png
+│       │       R043.png
+│       │       R045.png
+│       │       R047.png
+│       │       R049.png
+│       │       R050.png
+│       │       R053.png
+│       │       R057.png
+│       │       R062.png
+│       │       R063.png
+│       │       R065.png
+│       │       R066.png
+│       │       R069.png
+│       │       R083.png
+│       │       R087.png
+│       │       R092.png
+│       │       R095.png
+│       │       R097.png
+│       │       R098.png
+│       │       R099.png
+│       │       R100.png
+│       │       R105.png
+│       │       R106.png
+│       │       R107.png
+│       │       R109.png
+│       │       R110.png
+│       │       R111.png
+│       │       R112.png
+│       │       R113.png
+│       │       R114.png
+│       │       R115.png
+│       │       R116.png
+│       │       R119.png
+│       │       R120.png
+│       │       R125.png
+│       │       R127.png
+│       │       R128.png
+│       │       R130.png
+│       │       R131.png
+│       │       R133.png
+│       │       R135.png
+│       │       R136.png
+│       │       R137.png
+│       │       R138.png
+│       │       R142.png
+│       │       R143.png
+│       │       R148.png
+│       │       R149.png
+│       │       R152.png
+│       │       R161.png
+│       │       R163.png
+│       │       R165.png
+│       │       R166.png
+│       │       R167.png
+│       │       R170.png
+│       │       R171.png
+│       │       R174.png
+│       │       R176.png
+│       │       R177.png
+│       │       R179.png
+│       │       R181.png
+│       │       R184.png
+│       │       R194.png
+│       │       R195.png
+│       │       R196.png
+│       │       R198.png
+│       │       R199.png
+│       │       R200.png
+│       │       R202.png
+│       │       R203.png
+│       │       R208.png
+│       │       R500.png
+│       │       R501.png
+│       │       R502.png
+│       │       R504.png
+│       │       R505.png
+│       │       R507.png
+│       │       R508.png
+│       │       R509.png
+│       │       R510.png
+│       │       R511.png
+│       │       R513.png
+│       │       R514.png
+│       │       R515.png
+│       │       R516.png
+│       │       R518.png
+│       │       R519.png
+│       │       R521.png
+│       │       R522.png
+│       │       R523.png
+│       │       R524.png
+│       │       R525.png
+│       │       R526.png
+│       │       R528.png
+│       │       R529.png
+│       │       R530.png
+│       │       R532.png
+│       │       R533.png
+│       │       R534.png
+│       │       R535.png
+│       │       R538.png
+│       │       R539.png
+│       │       R540.png
+│       │       R541.png
+│       │       R542.png
+│       │       R543.png
+│       │       R544.png
+│       │       R545.png
+│       │       R547.png
+│       │       R548.png
+│       │       R550.png
+│       │       R551.png
+│       │       R553.png
+│       │       R554.png
+│       │       R555.png
+│       │       R556.png
+│       │       R558.png
+│       │       R559.png
+│       │       R560.png
+│       │       R562.png
+│       │       R563.png
+│       │       R564.png
+│       │       R565.png
+│       │       R566.png
+│       │       R567.png
+│       │       R569.png
+│       │       R570.png
+│       │       R572.png
+│       │       R573.png
+│       │       R574.png
+│       │       R577.png
+│       │       R579.png
+│       │       R580.png
+│       │       R581.png
+│       │       R582.png
+│       │       R585.png
+│       │       R586.png
+│       │       R590.png
+│       │       R591.png
+│       │       R592.png
+│       │       R593.png
+│       │       R594.png
+│       │       R595.png
+│       │       R597.png
+│       │       R598.png
+│       │       R599.png
+│       │       R601.png
+│       │       R602.png
+│       │       R605.png
+│       │       R606.png
+│       │       R607.png
+│       │       R610.png
+│       │       R611.png
+│       │       R612.png
+│       │       R613.png
+│       │       R614.png
+│       │       R615.png
+│       │       R616.png
+│       │       R617.png
+│       │       R618.png
+│       │       R619.png
+│       │       R620.png
+│       │       R622.png
+│       │       R624.png
+│       │       R625.png
+│       │       R626.png
+│       │       R627.png
+│       │       R629.png
+│       │       R630.png
+│       │       R631.png
+│       │       R632.png
+│       │       R633.png
+│       │       R634.png
+│       │       R635.png
+│       │       R637.png
+│       │       R639.png
+│       │       R640.png
+│       │       R641.png
+│       │       R642.png
+│       │       R643.png
+│       │       R644.png
+│       │       R645.png
+│       │       R646.png
+│       │       R647.png
+│       │       R648.png
+│       │       R649.png
+│       │       R650.png
+│       │       R651.png
+│       │       R652.png
+│       │       R653.png
+│       │       R657.png
+│       │       R658.png
+│       │       R659.png
+│       │       R660.png
+│       │       R662.png
+│       │       R663.png
+│       │       R664.png
+│       │       R666.png
+│       │       R667.png
+│       │       R668.png
+│       │       R669.png
+│       │       R670.png
+│       │       R672.png
+│       │       R675.png
+│       │       R676.png
+│       │       R677.png
+│       │       R678.png
+│       │       R679.png
+│       │       R680.png
+│       │       R682.png
+│       │       R684.png
+│       │       R685.png
+│       │       R686.png
+│       │       R687.png
+│       │       R688.png
+│       │       R689.png
+│       │       R690.png
+│       │       R692.png
+│       │       R694.png
+│       │       R697.png
+│       │       R698.png
+│       │       R699.png
+│       │       R700.png
+│       │       R701.png
+│       │       R703.png
+│       │       R704.png
+│       │       R705.png
+│       │       R706.png
+│       │       R709.png
+│       │       R710.png
+│       │       R711.png
+│       │       R712.png
+│       │       R713.png
+│       │       R714.png
+│       │       R718.png
+│       │       R719.png
+│       │       R720.png
+│       │       R722.png
+│       │       R724.png
+│       │       R726.png
+│       │       R727.png
+│       │       R728.png
+│       │       R730.png
+│       │       R734.png
+│       │       R735.png
+│       │       R736.png
+│       │       R737.png
+│       │       R738.png
+│       │       R739.png
+│       │       R740.png
+│       │       R741.png
+│       │       R742.png
+│       │       R743.png
+│       │       R744.png
+│       │       R746.png
+│       │       R747.png
+│       │       R748.png
+│       │       R750.png
+│       │       R752.png
+│       │       R753.png
+│       │       R754.png
+│       │       R757.png
+│       │       R759.png
+│       │       R760.png
+│       │       R761.png
+│       │       R762.png
+│       │       R763.png
+│       │       R764.png
+│       │       R766.png
+│       │       R768.png
+│       │       R769.png
+│       │       R771.png
+│       │       R772.png
+│       │       R774.png
+│       │       R776.png
+│       │       R777.png
+│       │       R778.png
+│       │       R780.png
+│       │       R781.png
+│       │       R783.png
+│       │       R784.png
+│       │       R785.png
+│       │       R786.png
+│       │       R787.png
+│       │       S042.png
+│       │       S055.png
+│       │       S077.png
+│       │       S112.png
+│       │       S292.png
+│       │       S381.png
+│       │
+│       └───Signal
+│               26046.png
+│               26047.png
+│               26093.png
+│               27034.png
+│               27080.png
+│               27099.png
+│               27162.png
+│               27163.png
+│               27180.png
+│               27186.png
+│               27198.png
+│               27219.png
+│               27220.png
+│               27225.png
+│               27258.png
+│               27260.png
+│               27262.png
+│               27277.png
+│               27278.png
+│               27377.png
+│               27433.png
+│               27439.png
+│               27440.png
+│               27449.png
+│               27451.png
+│               27453.png
+│               27455.png
+│               27463.png
+│               27496.png
+│               27508.png
+│               27522.png
+│               27523.png
+│               28037.png
+│               28179.png
+│               28182.png
+│               29028.png
+│               29044.png
+│               29088.png
+│               29164.png
+│               29172.png
+│               29229.png
+│               29236.png
+│               29409.png
+│               29451.png
+│               51884.png
+│               51933.png
+│               51934.png
+│               52080.png
+│               52086.png
+│               52106.png
+│               52108.png
+│               52112.png
+│               52113.png
+│               52857.png
+│               52942.png
+│               52955.png
+│               52971.png
+│               53418.png
+│               53423.png
+│               53534.png
+│               53538.png
+│               53539.png
+│               60028.png
+│               60032.png
+│               60044.png
+│               60080.png
+│               60083.png
+│               60112.png
+│               60145.png
+│               60149.png
+│               60152.png
+│               60201.png
+│               60216.png
+│               60220.png
+│               60232.png
+│               60295.png
+│               60298.png
+│               60306.png
+│               60317.png
+│               60322.png
+│               60323.png
+│               60324.png
+│               60328.png
+│               60330.png
+│               60338.png
+│               60340.png
+│               60351.png
+│               60353.png
+│               60354.png
+│               60366.png
+│               60369.png
+│               60395.png
+│               60400.png
+│               60406.png
+│               60418.png
+│               60420.png
+│               60424.png
+│               60464.png
+│               62006.png
+│               62007.png
+│               62061.png
+│               62062.png
+│               62063.png
+│               62065.png
+│               62090.png
+│               62214.png
+│               62218.png
+│               62236.png
+│               62237.png
+│               62241.png
+│               62348.png
+│               62350.png
+│               62352.png
+│               62386.png
+│               62493.png
+│               62526.png
+│               62805.png
+│               62810.png
+│               62823.png
+│               62825.png
+│               62895.png
+│               62900.png
+│               62901.png
+│               62936.png
+│               62943.png
+│               63002.png
+│               63007.png
+│               63029.png
+│               65108.png
+│               65404.png
+│               65415.png
+│               65416.png
+│               65418.png
+│               65421.png
+│               65423.png
+│               65424.png
+│               65426.png
+│               65427.png
+│               65433.png
+│               65434.png
+│               65443.png
+│               66701.png
+│               66702.png
+│               66704.png
+│               66705.png
+│               S004.png
+│               S009.png
+│               S011.png
+│               S013.png
+│               S015.png
+│               S020.png
+│               S021.png
+│               S025.png
+│               S026.png
+│               S029.png
+│               S031.png
+│               S032.png
+│               S033.png
+│               S035.png
+│               S036.png
+│               S038.png
+│               S040.png
+│               S041.png
+│               S046.png
+│               S048.png
+│               S050.png
+│               S058.png
+│               S066.png
+│               S070.png
+│               S071.png
+│               S075.png
+│               S084.png
+│               S085.png
+│               S091.png
+│               S092.png
+│               S095.png
+│               S107.png
+│               S109.png
+│               S111.png
+│               S115.png
+│               S116.png
+│               S117.png
+│               S122.png
+│               S124.png
+│               S132.png
+│               S134.png
+│               S136.png
+│               S139.png
+│               S148.png
+│               S149.png
+│               S150.png
+│               S151.png
+│               S152.png
+│               S153.png
+│               S154.png
+│               S158.png
+│               S161.png
+│               S162.png
+│               S163.png
+│               S165.png
+│               S167.png
+│               S171.png
+│               S173.png
+│               S175.png
+│               S176.png
+│               S179.png
+│               S180.png
+│               S190.png
+│               S195.png
+│               S196.png
+│               S198.png
+│               S202.png
+│               S216.png
+│               S221.png
+│               S222.png
+│               S223.png
+│               S225.png
+│               S226.png
+│               S227.png
+│               S228.png
+│               S229.png
+│               S230.png
+│               S232.png
+│               S233.png
+│               S234.png
+│               S244.png
+│               S246.png
+│               S247.png
+│               S248.png
+│               S254.png
+│               S256.png
+│               S257.png
+│               S259.png
+│               S262.png
+│               S264.png
+│               S266.png
+│               S267.png
+│               S269.png
+│               S270.png
+│               S276.png
+│               S278.png
+│               S280.png
+│               S284.png
+│               S285.png
+│               S286.png
+│               S289.png
+│               S290.png
+│               S291.png
+│               S294.png
+│               S296.png
+│               S313.png
+│               T500.png
+│               T501.png
+│               T502.png
+│               T503.png
+│               T504.png
+│               T507.png
+│               T509.png
+│               T511.png
+│               T512.png
+│               T515.png
+│               T516.png
+│               T519.png
+│               T520.png
+│               T521.png
+│               T526.png
+│               T527.png
+│               T528.png
+│               T529.png
+│               T530.png
+│               T534.png
+│               T535.png
+│               T536.png
+│               T537.png
+│               T538.png
+│               T541.png
+│               T542.png
+│               T543.png
+│               T544.png
+│               T545.png
+│               T547.png
+│               T548.png
+│               T549.png
+│               T550.png
+│               T552.png
+│               T553.png
+│               T554.png
+│               T559.png
+│               T560.png
+│               T562.png
+│               T564.png
+│               T565.png
+│               T566.png
+│               T567.png
+│               T569.png
+│               T570.png
+│               T571.png
+│               T572.png
+│               T573.png
+│               T574.png
+│               T576.png
+│               T577.png
+│               T578.png
+│               T579.png
+│               T580.png
+│               T581.png
+│               T582.png
+│               T583.png
+│               T584.png
+│               T585.png
+│               T586.png
+│               T587.png
+│               T588.png
+│               T589.png
+│               T590.png
+│               T592.png
+│               T595.png
+│               T596.png
+│               T597.png
+│               T599.png
+│               T600.png
+│               T601.png
+│               T602.png
+│               T603.png
+│               T604.png
+│               T606.png
+│               T609.png
+│               T610.png
+│               T611.png
+│               T612.png
+│               T613.png
+│               T616.png
+│               T619.png
+│               T621.png
+│               T623.png
+│               T624.png
+│               T625.png
+│               T626.png
+│               T627.png
+│               T629.png
+│               T632.png
+│               T633.png
+│               T636.png
+│               T638.png
+│               T639.png
+│               T640.png
+│               T641.png
+│               T642.png
+│               T643.png
+│               T647.png
+│               T649.png
+│               T650.png
+│               T652.png
+│               T653.png
+│               T654.png
+│               T655.png
+│               T656.png
+│               T657.png
+│               T658.png
+│               T659.png
+│               T660.png
+│               T661.png
+│               T662.png
+│               T664.png
+│               T666.png
+│               T667.png
+│               T669.png
+│               T671.png
+│               T673.png
+│               T679.png
+│               T680.png
+│               T681.png
+│               T683.png
+│               T684.png
+│               T685.png
+│               T687.png
+│               T688.png
+│               T689.png
+│               T691.png
+│               T692.png
+│               T693.png
+│               T694.png
+│               T695.png
+│               T696.png
+│               T703.png
+│               T704.png
+│               T705.png
+│               T706.png
+│               T707.png
+│               T710.png
+│               T715.png
+│               T716.png
+│               T717.png
+│               T718.png
+│               T719.png
+│               T720.png
+│               T722.png
+│               T729.png
+│               T734.png
+│               T735.png
+│               T737.png
+│               T738.png
+│               T739.png
+│               T740.png
+│               T743.png
+│               T745.png
+│               T747.png
+│               T748.png
+│               T753.png
+│               T754.png
+│               T755.png
+│               T756.png
+│               T757.png
+│               T758.png
+│               T759.png
+│               T760.png
+│               T761.png
+│               T762.png
+│               T765.png
+│               T771.png
+│               T772.png
+│               T774.png
+│               T775.png
+│               T786.png
+│               T789.png
+│               T790.png
+│               T791.png
+│
+└───Test
+    └───Test
+            P1.png
+            P2.png
+            R1.png
+            R2.png
+            R3.png
+            S1.png
+            S2.png
+            X1.png
+
+
+d:\virtualVision\dataset>
